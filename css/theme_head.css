@@ -64,6 +64,9 @@
 }
 
 /* theme_fix_wrap */
+.theme-swiper {
+  overflow: hidden;
+}
 .sc_themecast .main_category {
   position: relative;
 }

@@ -82,7 +82,7 @@
 
 /* contents */
 .shop_wrap > .shop_contents {
-  /* overflow: hidden; */
+  overflow: hidden;
   border: 1px solid #e4e8eb;
 }
 
